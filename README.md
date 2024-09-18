@@ -10,7 +10,8 @@ Ces exercices m'ont permis d'acquérir une solide compréhension des bases de la
 
 ## Aperçu
 * Exemple d'exercice à réaliser
-  ![Capture d'écran 2024-09-18 133733.png](https://github.com/user-attachments/assets/877b8f7a-ff27-42fa-8590-8b9663b49dfd)
+  
+![Capture d'écran 2024-09-18 133733.png]https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20133733.png
 
 
 [!Image]()
