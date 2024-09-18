@@ -5,10 +5,14 @@ Ces exercices m'ont permis d'acquérir une solide compréhension des bases de la
 
 ## Dans ce dépôt, vous trouverez 
 
-* [Les fichiers PDF] (https://github.com/imedadjelia/Python_Algorithmie/tree/main/Exercices%20%C3%A0%20r%C3%A9aliser%20PDF) contenant les énoncés des exercices à réaliser
+* [Les fichiers PDF](https://github.com/imedadjelia/Python_Algorithmie/tree/main/Exercices%20%C3%A0%20r%C3%A9aliser%20PDF) contenant les énoncés des exercices à réaliser
 * [Mes solutions aux exercices](https://github.com/imedadjelia/Python_Algorithmie/tree/main/R%C3%A9alisation%20exercices%20python), avec un code clair et commenté, démontrant l'application des concepts fondamentaux de Python, tels que la gestion des variables, les boucles, les fonctions, la manipulation des données, et bien plus encore.
 
 ## Aperçu
 * Exemple d'exercice à réaliser
 
   [](url)
+
+* Exemple de solution à l'exercice
+
+[!image](https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20134039.png)
