@@ -11,8 +11,8 @@ Ces exercices m'ont permis d'acquérir une solide compréhension des bases de la
 ## Aperçu
 * Exemple d'exercice à réaliser
 
-  [](url)
+ [!Image](https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20133733.png)
 
 * Exemple de solution à l'exercice
 
-[!image](https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20134039.png)
+[!Image](https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20134039.png)
