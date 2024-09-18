@@ -15,4 +15,4 @@ Ces exercices m'ont permis d'acquérir une solide compréhension des bases de la
 
 * Exemple de solution à l'exercice
 
-(https://github.com/imedadjelia/Python_Algorithmie/blob/main/captures%20d'%C3%A9cran/Capture%20d'%C3%A9cran%202024-09-18%20134039.png)
+Capture d'écran 2024-09-18 134039.png
